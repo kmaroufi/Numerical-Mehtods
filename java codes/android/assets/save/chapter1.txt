@@ -1,0 +1,9 @@
+equation : a + b * c + e^d
+Value :  11.0
+Absolute error : 1.293147181
+Relative error : 0.1175588346
+a = 3.0 , error(a) = 0.1 , delta(a) = 0.03333333333
+b = 4.0 , error(b) = 0.2 , delta(b) = 0.05
+c = 1.0 , error(c) = 0.05 , delta(c) = 0.05
+d = 2.0 , error(d) = 1.0 , delta(d) = 0.5
+e = 2.0 , error(e) = 0.1 , delta(e) = 0.05
